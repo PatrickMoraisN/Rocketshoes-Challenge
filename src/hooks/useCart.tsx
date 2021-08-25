@@ -90,7 +90,7 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
       if(amount <= 0) return;
 
       const stock = await api.get(`/stock/${productId}`);
-      const stockAmount = stock.data.amount
+      const stockAmount = stock.data.amount;
 
       if(amount > stockAmount) {
         toast.error('Quantidade solicitada fora de estoque');
@@ -106,8 +106,8 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
       } else {
         throw Error();
       }
-    } catch {
-      toast.error('Ocorreu um erro na alteração do produto');
+    } catch (error) {
+      toast.error('Erro na alteração de quantidade do produto');
     }
   };
 
