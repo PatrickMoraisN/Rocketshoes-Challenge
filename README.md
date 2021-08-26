@@ -11,7 +11,7 @@
 ---
 # :camera_flash: Project Media
 <div align="center">
-  <img src="" width="300px"/>
+  <img src="./assets/images/rocket.gif" width="300px"/>
 </div>
 
 <br />
