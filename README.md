@@ -12,6 +12,9 @@
 # :camera_flash: Project Media
 <div align="center">
   <img src="src/assets/images/rocket.gif" width="600px"/>
+  <img src="src/assets/images/rocketshoes.png" width="600px"/>
+  <img src="src/assets/images/rocketshoes2.png" width="600px"/>
+  <img src="src/assets/images/rocketshoes3.png" width="600px"/>
 </div>
 
 <br />
