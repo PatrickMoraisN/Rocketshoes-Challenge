@@ -42,6 +42,6 @@ This project was developed with the following technologies: <br>
 
 ---
 
-# :closed_book: Authors
+# :closed_book: Author
 By [Patrick Morais](https://github.com/PatrickMoraisN).
 ### :link: LinkedIn: https://www.linkedin.com/in/patrick-morais/
